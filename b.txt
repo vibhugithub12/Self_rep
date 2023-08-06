@@ -1,1 +1,2 @@
-This is the starting b file
+This is the starting b file.
+Now i've added b line to it.

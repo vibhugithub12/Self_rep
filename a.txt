@@ -1,1 +1,2 @@
 This is the starting a file
+Now i've added a line to it.
